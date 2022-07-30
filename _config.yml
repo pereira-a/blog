@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Pereira Blog
+title: Brain Crumbs
 name: André Pereira
-logo: "/assets/images/tree.png"
+logo: "/assets/images/logo.png"
 email:
 description: "Tech thoughs from another geek on the internet"
-twitter_username: username
-github_username: username
+twitter_username: pereira__a
+github_username: pereira-a
 minimal_mistakes_skin: "dirt" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 locale: "en-US"
@@ -61,34 +61,34 @@ plugins:
 # Site Author
 author:
   name     : "André Pereira"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/avatar.jpg"
   bio      : "Software Engineer"
   location : Portugal
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pereira__a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/pereira-a"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andr%C3%A9-pereira-8bb9a3230/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pereira__a"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/pereira-a"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andr%C3%A9-pereira-8bb9a3230/"
 
 defaults:
   # _posts
