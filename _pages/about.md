@@ -12,4 +12,4 @@ Today my focus is to architect beautiful distributed cloud-based ecosystems wher
 - Containerization
 - Kubernetes
 
-I'm creating this blog to use it as a dump for "crumbs" of information, work, or investigation performed by me (therefore the name 'brain crumbs'). By doing so, I expect to have a where I can organize my thoughts and revisit to read some ideas or recipes used in the past.
+I'm creating this blog to use it as a dump for "crumbs" of information, work, or investigation performed by me (therefore the name 'brain crumbs'). By doing so, I expect to have a place where I can organize my thoughts and revisit to read some ideas or recipes used in the past.
