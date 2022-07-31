@@ -24,7 +24,7 @@ github_username: pereira-a
 minimal_mistakes_skin: "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 locale: "en"
-url: https://pereira-a.github.io/blog/
+url: https://pereira-a.github.io
 baseurl: /brain-crumbs
 repository: pereira-a/brain-crumbs
 timezone: Europe/Lisbon
@@ -102,7 +102,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
