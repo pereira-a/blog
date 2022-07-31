@@ -27,6 +27,7 @@ locale: "en"
 url: https://pereira-a.github.io/blog/
 baseurl: /brain-crumbs
 repository: pereira-a/brain-crumbs
+timezone: Europe/Lisbon
 
 # Build settings
 markdown: kramdown
