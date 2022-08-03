@@ -3,5 +3,5 @@
 Powered by Jekyll & Minimal Mistakes.
 
 ## TODO:
-- [ ] Favicon
+- [X] Favicon
 - [ ] Newsletter
