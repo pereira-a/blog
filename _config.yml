@@ -156,5 +156,5 @@ social:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-DT2Z0RSND5"
+    tracking_id: "UA-236105698-1"
     anonymize_ip: false # default
