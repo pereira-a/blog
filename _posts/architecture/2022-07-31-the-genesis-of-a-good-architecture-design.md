@@ -1,7 +1,7 @@
 ---
 title: "The genesis of (a good) architecture design"
 categories:
-  - opinion
+  - architecture
 tags:
   - architecture
   - opinion
@@ -10,6 +10,7 @@ toc_label: "Table of Contents"
 toc_icon: "fas fa-bars"
 ---
 
+# Introduction
 When you hear me insisting that architecture design is an important (if not the most important) phase of software design, I bet you think “Of course it is, there’s nothing new to me here”. I have no doubt in fact that most of us believe this, but do we know how to do it? And most notably, do we know how to do it well?
 
 Our industry is a young one. We have only been creating programs that run on what we recognise as computers for around 70 years. Therefore, we are constantly looking at other professions in an attempt to explain what we do. We borrow names from professions that are based on a body of knowledge going back thousands of years, like engineers or architects, which implies that we know what we are doing when often we plainly don’t.
